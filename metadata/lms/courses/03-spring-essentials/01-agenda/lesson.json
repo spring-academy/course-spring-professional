@@ -1,0 +1,14 @@
+{
+  "id": "spring-essentials-agenda",
+  "slug": "agenda",
+  "title": "Agenda",
+  "status": "live",
+  "type": "video",
+  "duration": 197,
+  "entitlements": [],
+  "settings": {
+    "vimeo": 764708735,
+    "brightcove": 6362191899112,
+    "manualCompletion": true
+  }
+}

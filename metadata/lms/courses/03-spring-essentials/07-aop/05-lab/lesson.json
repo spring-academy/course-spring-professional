@@ -1,0 +1,11 @@
+{
+  "id": "spring-essentials-aop-lab",
+  "slug": "spring-essentials-aop-lab",
+  "title": "Introducing Aspect Oriented Programming Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 2100,
+  "settings": {
+    "manualCompletion": true
+  }
+}

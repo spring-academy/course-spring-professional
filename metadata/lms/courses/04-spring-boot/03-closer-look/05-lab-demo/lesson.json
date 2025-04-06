@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-closer-look-lab-demo",
+  "slug": "spring-boot-closer-look-lab-demo",
+  "title": "Demo - Spring Boot - A Closer Look Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 1460,
+  "settings": {
+    "vimeo": 778315037,
+    "brightcove": 6362187512112,
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-web-app-deployment",
+  "slug": "spring-boot-web-app-deployment",
+  "title": "Configure for WAR or JAR deployment",
+  "status": "live",
+  "type": "video",
+  "duration": 405,
+  "settings": {
+    "vimeo": 778335820,
+    "brightcove": 6362186419112,
+    "manualCompletion": true
+  }
+}

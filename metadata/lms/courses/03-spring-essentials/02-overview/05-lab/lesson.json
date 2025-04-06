@@ -1,0 +1,11 @@
+{
+  "id": "spring-essentials-overview-lab",
+  "slug": "spring-essentials-overview-lab",
+  "title": "Spring Overview Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 900,
+  "settings": {
+    "manualCompletion": true
+  }
+}

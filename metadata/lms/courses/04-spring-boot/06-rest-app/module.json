@@ -1,0 +1,9 @@
+{
+  "id": "spring-boot-rest-app",
+  "slug": "spring-boot-rest-app",
+  "title": "RESTful Application with Spring Boot",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

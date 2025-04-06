@@ -1,0 +1,9 @@
+{
+  "id": "spring-boot-actuator",
+  "slug": "spring-boot-actuator",
+  "title": "Actuator",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,1 @@
+Next, we’ll learn how Spring Boot Actuator can help give you insights into a running Spring Boot Application, and how to access every endpoint that Actuator offers. Learn how metrics and monitoring through health indicators helps the application gain visibility.

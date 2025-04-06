@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-testing-lab-demo",
+  "slug": "spring-boot-testing-lab-demo",
+  "title": "Demo - Spring Boot Testing Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 1192,
+  "settings": {
+    "vimeo": 778342250,
+    "brightcove": 6362186114112,
+    "manualCompletion": true
+  }
+}

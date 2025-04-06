@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-java-config-lab-demo",
+  "slug": "spring-essentials-java-config-lab-demo",
+  "title": "Demo - Java Configuration Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 826,
+  "settings": {
+    "vimeo": 764709353,
+    "brightcove": 6362207417112,
+    "manualCompletion": true
+  }
+}

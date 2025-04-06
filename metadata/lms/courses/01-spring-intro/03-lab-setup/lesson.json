@@ -1,0 +1,11 @@
+{
+  "id": "spring-introduction-setup",
+  "slug": "spring-introduction-setup",
+  "title": "Lab Setup",
+  "status": "live",
+  "type": "article",
+  "duration": 900,
+  "settings": {
+    "manualCompletion": true
+  }
+}

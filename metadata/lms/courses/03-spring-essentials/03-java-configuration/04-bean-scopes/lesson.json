@@ -1,0 +1,19 @@
+{
+  "id": "spring-essentials-java-config-bean-scopes",
+  "slug": "spring-essentials-java-config-bean-scopes",
+  "title": "Bean Scopes",
+  "status": "live",
+  "type": "video",
+  "duration": 238,
+  "settings": {
+    "vimeo": 764709293,
+    "brightcove": 6362191603112,
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Bean Scopes",
+        "url": "https://docs.spring.io/spring-framework/docs/5.3.29/reference/html/core.html#beans-factory-scopes"
+      }
+    ]
+  }
+}

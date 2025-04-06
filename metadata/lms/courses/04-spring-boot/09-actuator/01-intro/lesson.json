@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-actuator-intro",
+  "slug": "spring-boot-actuator-intro",
+  "title": "Actuators, Metrics and Health Indicators",
+  "status": "live",
+  "type": "video",
+  "duration": 229,
+  "settings": {
+    "vimeo": 778348159,
+    "brightcove": 6362187315112,
+    "manualCompletion": true
+  }
+}

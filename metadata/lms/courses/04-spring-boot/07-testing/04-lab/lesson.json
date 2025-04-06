@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-testing-lab",
+  "slug": "spring-boot-testing-lab",
+  "title": "Spring Boot Testing Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 2700,
+  "settings": {
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-security-testing",
+  "slug": "spring-boot-security-testing",
+  "title": "Spring security and testing",
+  "status": "draft",
+  "type": "video",
+  "duration": 198,
+  "settings": {
+    "vimeo": 778345845,
+    "brightcove": 6362711548112,
+    "manualCompletion": true
+  }
+}

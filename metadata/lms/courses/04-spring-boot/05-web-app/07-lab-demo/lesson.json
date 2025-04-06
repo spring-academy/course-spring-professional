@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-web-app-lab-demo",
+  "slug": "spring-boot-web-app-lab-demo",
+  "title": "Demo - Web Applications with Spring Boot Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 764,
+  "settings": {
+    "vimeo": 778337254,
+    "brightcove": 6362188278112,
+    "manualCompletion": true
+  }
+}

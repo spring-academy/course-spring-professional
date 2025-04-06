@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-web-app-lab",
+  "slug": "spring-boot-web-app-lab",
+  "title": "Web Applications with Spring Boot Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 1200,
+  "settings": {
+    "manualCompletion": true
+  }
+}

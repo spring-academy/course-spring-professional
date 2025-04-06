@@ -1,0 +1,9 @@
+{
+  "id": "spring-boot-web-app",
+  "slug": "spring-boot-web-app",
+  "title": "Web Application with Spring Boot",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

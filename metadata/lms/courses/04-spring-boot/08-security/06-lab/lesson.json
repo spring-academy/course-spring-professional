@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-security-lab",
+  "slug": "spring-boot-security-lab",
+  "title": "Securing REST Application with Spring Security Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 2700,
+  "settings": {
+    "manualCompletion": true
+  }
+}

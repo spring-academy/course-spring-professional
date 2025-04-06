@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-jdbc-traditional-jdbctemplate",
+  "slug": "spring-essentials-jdbc-traditional-jdbctemplate",
+  "title": "Problems with traditional JDBC and into JdbcTemplate",
+  "status": "live",
+  "type": "video",
+  "duration": 440,
+  "settings": {
+    "vimeo": 764736526,
+    "brightcove": 6362210938112,
+    "manualCompletion": true
+  }
+}

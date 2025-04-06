@@ -1,0 +1,19 @@
+{
+  "id": "spring-essentials-component-scanning-construction-destruction",
+  "slug": "spring-essentials-component-scanning-construction-destruction",
+  "title": "Adding Startup and Shutdown Behaviors",
+  "status": "live",
+  "type": "video",
+  "duration": 191,
+  "settings": {
+    "vimeo": 764709778,
+    "brightcove": 6362207315112,
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Bean Construction and Destruction",
+        "url": "https://docs.spring.io/spring-framework/docs/5.3.29/reference/html/core.html#beans-postconstruct-and-predestroy-annotations"
+      }
+    ]
+  }
+}

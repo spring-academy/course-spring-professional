@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-spring-data-jpa-lab-demo",
+  "slug": "spring-boot-spring-data-jpa-lab-demo",
+  "title": "Demo - Spring Boot - Spring Data JPA Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 969,
+  "settings": {
+    "vimeo": 778327095,
+    "brightcove": 6362185925112,
+    "manualCompletion": true
+  }
+}

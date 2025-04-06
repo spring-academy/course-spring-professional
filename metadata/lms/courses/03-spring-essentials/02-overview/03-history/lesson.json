@@ -1,0 +1,19 @@
+{
+  "id": "spring-essentials-overview-history",
+  "slug": "spring-essentials-overview-history",
+  "title": "Spring Framework History",
+  "status": "live",
+  "type": "video",
+  "duration": 191,
+  "settings": {
+    "vimeo": 764708953,
+    "brightcove": 6362189560112,
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Philosophy",
+        "url": "https://docs.spring.io/spring-framework/docs/current/reference/html/overview.html#overview-philosophy"
+      }
+    ]
+  }
+}

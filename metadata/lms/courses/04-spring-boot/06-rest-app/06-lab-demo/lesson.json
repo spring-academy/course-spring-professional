@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-rest-app-lab-demo",
+  "slug": "spring-boot-rest-app-lab-demo",
+  "title": "Demo - RESTful Application with Spring Boot Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 1199,
+  "settings": {
+    "vimeo": 778340462,
+    "brightcove": 6362186701112,
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-feature-intro-lab",
+  "slug": "spring-boot-feature-intro-lab",
+  "title": "Spring Boot Feature Introduction Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 1800,
+  "settings": {
+    "manualCompletion": true
+  }
+}

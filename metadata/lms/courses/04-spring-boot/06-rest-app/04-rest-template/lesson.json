@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-rest-app-rest-template",
+  "slug": "spring-boot-rest-app-rest-template",
+  "title": "Utilize RestTemplate to invoke RESTful services",
+  "status": "live",
+  "type": "video",
+  "duration": 537,
+  "settings": {
+    "vimeo": 778339896,
+    "brightcove": 6362186702112,
+    "manualCompletion": true
+  }
+}

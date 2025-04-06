@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-transactions-rollback-testing",
+  "slug": "spring-essentials-transactions-rollback-testing",
+  "title": "Setup Rollback Rules and Testing support",
+  "status": "live",
+  "type": "video",
+  "duration": 172,
+  "settings": {
+    "vimeo": 764736889,
+    "brightcove": 6362209960112,
+    "manualCompletion": true
+  }
+}

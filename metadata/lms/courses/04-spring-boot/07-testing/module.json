@@ -1,0 +1,9 @@
+{
+  "id": "spring-boot-testing",
+  "slug": "spring-boot-testing",
+  "title": "Spring Boot Testing",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id": "spring-essentials-transactions",
+  "slug": "spring-essentials-transactions",
+  "title": "Transaction Management with Spring",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

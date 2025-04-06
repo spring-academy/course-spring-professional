@@ -1,0 +1,9 @@
+{
+  "id": "spring-boot-security",
+  "slug": "spring-boot-security",
+  "title": "Securing REST Application with Spring Security",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

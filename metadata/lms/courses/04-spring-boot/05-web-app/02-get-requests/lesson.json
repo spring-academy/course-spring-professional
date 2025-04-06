@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-web-app-get-requests",
+  "slug": "spring-boot-web-app-get-requests",
+  "title": "Create a simple RESTful controller to handle GET requests",
+  "status": "live",
+  "type": "video",
+  "duration": 545,
+  "settings": {
+    "vimeo": 778334461,
+    "brightcove": 6362186906112,
+    "manualCompletion": true
+  }
+}

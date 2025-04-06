@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-transactions-lab-demo",
+  "slug": "spring-essentials-transactions-lab-demo",
+  "title": "Demo - Transaction Management with Spring Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 774,
+  "settings": {
+    "vimeo": 764736911,
+    "brightcove": 6362210468112,
+    "manualCompletion": true
+  }
+}

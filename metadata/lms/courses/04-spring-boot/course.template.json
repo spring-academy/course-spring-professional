@@ -1,0 +1,28 @@
+{
+  "id": "spring-boot",
+  "slug": "spring-boot",
+  "title": "Spring Boot",
+  "status": "live",
+  "order": 400,
+  "level": "intermediate",
+  "topics": [
+    "java",
+    "rest",
+    "database",
+    "testing",
+    "deployment",
+    "observability",
+    "security",
+    "modernization"
+  ],
+  "instructors": ["spring-sergi-almar"],
+  "entitlements": ["auth"],
+  "settings": {
+    "thumbnail": "https://raw.githubusercontent.com/spring-academy/spring-academy-assets/main/courses/course-spring-professional/thumbnails/course-springBoot-thumbnail-large.png",
+    "debug.version": "${GITHUB_REF_NAME}",
+    "debug.commit": "${GITHUB_SHA}",
+    "debug.updated": "${DEBUG_DATE}",
+    "debug.who": "${GITHUB_ACTOR}",
+    "debug.github-workflow": "${GITHUB_WORKFLOW}"
+  }
+}

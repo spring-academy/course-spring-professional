@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-feature-intro-lab-demo",
+  "slug": "spring-boot-feature-intro-lab-demo",
+  "title": "Demo - Spring Boot Feature Introduction Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 1117,
+  "settings": {
+    "vimeo": 778311862,
+    "brightcove": 6362185717112,
+    "manualCompletion": true
+  }
+}

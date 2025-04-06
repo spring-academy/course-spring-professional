@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-actuator-lab",
+  "slug": "spring-boot-actuator-lab",
+  "title": "Actuators, Metrics and Health Indicators Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 2700,
+  "settings": {
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-rest-app-get-put",
+  "slug": "spring-boot-rest-app-get-put",
+  "title": "Implementing HTTP GET and PUT",
+  "status": "live",
+  "type": "video",
+  "duration": 438,
+  "settings": {
+    "vimeo": 778338854,
+    "brightcove": 6362186801112,
+    "manualCompletion": true
+  }
+}

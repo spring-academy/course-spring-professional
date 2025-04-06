@@ -1,0 +1,1 @@
+Next, you’ll see how to get experience using Spring to configure the completed reference domain, and to configure the pieces of the application, then run a top-down system test to verify application behavior.

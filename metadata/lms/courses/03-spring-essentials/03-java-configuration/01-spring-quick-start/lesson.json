@@ -1,0 +1,19 @@
+{
+  "id": "spring-essentials-java-config-quickstart",
+  "slug": "spring-essentials-java-config-quickstart",
+  "title": "Quick Start with Java Configuration",
+  "status": "live",
+  "type": "video",
+  "duration": 582,
+  "settings": {
+    "vimeo": 764709113,
+    "brightcove": 6362205955112,
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Introduction to the Spring IoC Container and Beans",
+        "url": "https://docs.spring.io/spring-framework/docs/5.3.29/reference/html/core.html#beans-introduction"
+      }
+    ]
+  }
+}

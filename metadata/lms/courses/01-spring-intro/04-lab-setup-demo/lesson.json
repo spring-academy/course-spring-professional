@@ -1,0 +1,13 @@
+{
+  "id": "spring-introduction-setup-demo",
+  "slug": "spring-introduction-setup-demo",
+  "title": "Demo - Lab Setup",
+  "status": "live",
+  "type": "video",
+  "duration": 248,
+  "settings": {
+    "vimeo": 764708642,
+    "brightcove": 6362191504112,
+    "manualCompletion": true
+  }
+}

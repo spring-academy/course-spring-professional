@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-spring-data-jpa-respositories",
+  "slug": "spring-boot-spring-data-jpa-respositories",
+  "title": "Create Spring Data Repositories for JPA",
+  "status": "live",
+  "type": "video",
+  "duration": 765,
+  "settings": {
+    "vimeo": 778326259,
+    "brightcove": 6362186312112,
+    "manualCompletion": true
+  }
+}

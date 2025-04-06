@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-rest-app-lab",
+  "slug": "spring-boot-rest-app-lab",
+  "title": "RESTful Application with Spring Boot Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 3000,
+  "settings": {
+    "manualCompletion": true
+  }
+}

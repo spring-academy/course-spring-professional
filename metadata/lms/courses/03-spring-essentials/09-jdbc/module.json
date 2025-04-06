@@ -1,0 +1,9 @@
+{
+  "id": "spring-essentials-jdbc",
+  "slug": "spring-essentials-jdbc",
+  "title": "JDBC Simplification with Jdbc Template",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

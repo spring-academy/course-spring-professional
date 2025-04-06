@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-security-config-web-authentication",
+  "slug": "spring-boot-security-config-web-authentication",
+  "title": "Configuring Web Authentication",
+  "status": "live",
+  "type": "video",
+  "duration": 615,
+  "settings": {
+    "vimeo": 778343507,
+    "brightcove": 6362187879112,
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-testing-integration",
+  "slug": "spring-essentials-testing-integration",
+  "title": "Write Integration Tests using Spring",
+  "status": "live",
+  "type": "video",
+  "duration": 515,
+  "settings": {
+    "vimeo": 764736337,
+    "brightcove": 6362211428112,
+    "manualCompletion": true
+  }
+}

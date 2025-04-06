@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-jdbc-resultsets",
+  "slug": "spring-essentials-jdbc-resultsets",
+  "title": "Working with ResultSets using Callbacks",
+  "status": "live",
+  "type": "video",
+  "duration": 481,
+  "settings": {
+    "vimeo": 764736605,
+    "brightcove": 6362211045112,
+    "manualCompletion": true
+  }
+}

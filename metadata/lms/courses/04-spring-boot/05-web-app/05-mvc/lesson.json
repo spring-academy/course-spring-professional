@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-web-app-mvc",
+  "slug": "spring-boot-web-app-mvc",
+  "title": "Spring MVC Quick Start",
+  "status": "live",
+  "type": "video",
+  "duration": 316,
+  "settings": {
+    "vimeo": 778336536,
+    "brightcove": 6362187317112,
+    "manualCompletion": true
+  }
+}

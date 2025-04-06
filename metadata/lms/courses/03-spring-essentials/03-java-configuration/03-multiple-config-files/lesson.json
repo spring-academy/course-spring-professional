@@ -1,0 +1,23 @@
+{
+  "id": "spring-essentials-java-config-multiple-configs",
+  "slug": "spring-essentials-java-config-multiple-configs",
+  "title": "Handling Multiple Configurations",
+  "status": "live",
+  "type": "video",
+  "duration": 327,
+  "settings": {
+    "vimeo": 764709244,
+    "brightcove": 6362191900112,
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Java Configuration Basic Concepts",
+        "url": "https://docs.spring.io/spring-framework/docs/5.3.29/reference/html/core.html#beans-java-basic-concepts"
+      },
+      {
+        "text": "Tramp Data",
+        "url": "https://en.wiktionary.org/wiki/tramp_data"
+      }
+    ]
+  }
+}

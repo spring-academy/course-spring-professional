@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-security-url-authorization",
+  "slug": "spring-boot-security-url-authorization",
+  "title": "URL authorization",
+  "status": "live",
+  "type": "video",
+  "duration": 234,
+  "settings": {
+    "vimeo": 778343113,
+    "brightcove": 6362187121112,
+    "manualCompletion": true
+  }
+}

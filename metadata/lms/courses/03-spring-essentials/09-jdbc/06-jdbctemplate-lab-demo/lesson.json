@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-jdbc-jdbctemplate-lab-demo",
+  "slug": "spring-essentials-jdbc-jdbctemplate-lab-demo",
+  "title": "Demo - JDBC Simplification with JdbcTemplate Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 1301,
+  "settings": {
+    "vimeo": 764736685,
+    "brightcove": 6362217186112,
+    "manualCompletion": true
+  }
+}

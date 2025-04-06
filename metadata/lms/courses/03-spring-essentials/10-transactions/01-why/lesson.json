@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-transactions-why",
+  "slug": "spring-essentials-transactions-why",
+  "title": "Why Transactions and how Java supports them",
+  "status": "live",
+  "type": "video",
+  "duration": 254,
+  "settings": {
+    "vimeo": 764736790,
+    "brightcove": 6362190155112,
+    "manualCompletion": true
+  }
+}

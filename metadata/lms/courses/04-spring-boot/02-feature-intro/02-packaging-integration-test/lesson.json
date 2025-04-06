@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-feature-intro-packaging-integration-test",
+  "slug": "spring-boot-feature-intro-packaging-integration-test",
+  "title": "Packaging and Integration Testing",
+  "status": "live",
+  "type": "video",
+  "duration": 281,
+  "settings": {
+    "vimeo": 778307312,
+    "brightcove": 6362185716112,
+    "manualCompletion": true
+  }
+}

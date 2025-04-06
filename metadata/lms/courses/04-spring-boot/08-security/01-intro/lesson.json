@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-security-intro",
+  "slug": "spring-boot-security-intro",
+  "title": "Securing REST Application with Spring Security",
+  "status": "live",
+  "type": "video",
+  "duration": 585,
+  "settings": {
+    "vimeo": 778342794,
+    "brightcove": 6362188089112,
+    "manualCompletion": true
+  }
+}

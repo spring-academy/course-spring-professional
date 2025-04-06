@@ -1,0 +1,1 @@
+In this demo you’ll see how to expose resources with Restful URLs, you’ll map request and response bodies using HTTP Message Converters, and implement the server-side REST endpoints. You’ll also see how to create a client using the RestTemplate to consume RESTful web services.

@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-actuator-setup",
+  "slug": "spring-boot-actuator-setup",
+  "title": "Setting up Actuators",
+  "status": "live",
+  "type": "video",
+  "duration": 441,
+  "settings": {
+    "vimeo": 778349232,
+    "brightcove": 6362187511112,
+    "manualCompletion": true
+  }
+}

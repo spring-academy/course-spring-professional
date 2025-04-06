@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-aop-lab-demo",
+  "slug": "spring-essentials-aop-lab-demo",
+  "title": "Demo - Introducing Aspect Oriented Programming Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 976,
+  "settings": {
+    "vimeo": 764710350,
+    "brightcove": 6362210429112,
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "spring-essentials-component-scanning-config-choices",
+  "slug": "spring-essentials-component-scanning-config-choices",
+  "title": "Configuration Choices",
+  "status": "live",
+  "type": "video",
+  "duration": 179,
+  "settings": {
+    "vimeo": 764709728,
+    "brightcove": 6362208279112,
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Customize Scanning",
+        "url": "https://docs.spring.io/spring-framework/docs/5.3.29/reference/html/core.html#beans-scanning-filters"
+      }
+    ]
+  }
+}

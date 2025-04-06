@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-closer-look-lab",
+  "slug": "spring-boot-closer-look-lab",
+  "title": "Spring Boot - A Closer Look Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 2700,
+  "settings": {
+    "manualCompletion": true
+  }
+}

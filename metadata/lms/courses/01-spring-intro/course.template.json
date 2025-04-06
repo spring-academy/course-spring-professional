@@ -1,0 +1,19 @@
+{
+  "id": "spring-introduction",
+  "slug": "spring-introduction",
+  "title": "Introduction to the Spring Professional Learning Path",
+  "status": "live",
+  "order": 200,
+  "level": "beginner",
+  "topics": ["java", "tooling"],
+  "instructors": ["spring-sergi-almar"],
+  "entitlements": ["auth"],
+  "settings": {
+    "thumbnail": "https://raw.githubusercontent.com/spring-academy/spring-academy-assets/main/courses/course-spring-professional/thumbnails/course-introSpringPro-thumbnail-large.svg",
+    "debug.version": "${GITHUB_REF_NAME}",
+    "debug.commit": "${GITHUB_SHA}",
+    "debug.updated": "${DEBUG_DATE}",
+    "debug.who": "${GITHUB_ACTOR}",
+    "debug.github-workflow": "${GITHUB_WORKFLOW}"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-rest-app-intro",
+  "slug": "spring-boot-rest-app-intro",
+  "title": "RESTful Application with Spring Boot",
+  "status": "live",
+  "type": "video",
+  "duration": 440,
+  "settings": {
+    "vimeo": 778338285,
+    "brightcove": 6362187405112,
+    "manualCompletion": true
+  }
+}

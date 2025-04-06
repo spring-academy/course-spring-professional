@@ -1,0 +1,9 @@
+{
+  "id": "spring-essentials-java-config",
+  "slug": "spring-essentials-java-config",
+  "title": "Java Configuration",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

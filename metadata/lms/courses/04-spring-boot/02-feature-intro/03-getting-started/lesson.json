@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-feature-intro-getting-started",
+  "slug": "spring-boot-feature-intro-getting-started",
+  "title": "Spring Boot - Getting Started",
+  "status": "live",
+  "type": "video",
+  "duration": 347,
+  "settings": {
+    "vimeo": 778307977,
+    "brightcove": 6362188088112,
+    "manualCompletion": true
+  }
+}

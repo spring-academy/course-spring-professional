@@ -1,0 +1,28 @@
+{
+  "id": "spring-essentials-overview-what-is-springframework",
+  "slug": "what-is-spring-framework",
+  "title": "What is the Spring Framework?",
+  "status": "live",
+  "type": "video",
+  "duration": 221,
+  "entitlements": ["auth"],
+  "settings": {
+    "vimeo": 764708848,
+    "brightcove": 6362205593112,
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Code",
+        "url": "https://github.com/spring-projects/spring-framework"
+      },
+      {
+        "text": "Maven Binaries",
+        "url": "http://mvnrepository.com/artifact/org.springframework"
+      },
+      {
+        "text": "Documentation",
+        "url": "https://docs.spring.io/spring-framework/docs/current/reference/html/"
+      }
+    ]
+  }
+}

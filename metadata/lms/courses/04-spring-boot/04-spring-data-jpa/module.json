@@ -1,0 +1,9 @@
+{
+  "id": "spring-boot-spring-data-jpa",
+  "slug": "spring-boot-spring-data-jpa",
+  "title": "Spring Boot - Spring Data JPA",
+  "status": "live",
+  "settings": {
+    "manualCompletion": true
+  }
+}

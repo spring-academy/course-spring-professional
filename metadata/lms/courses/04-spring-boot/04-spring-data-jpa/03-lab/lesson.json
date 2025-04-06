@@ -1,0 +1,11 @@
+{
+  "id": "spring-boot-spring-data-jpa-lab",
+  "slug": "spring-boot-spring-data-jpa-lab",
+  "title": "Spring Boot - Spring Data JPA Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 1800,
+  "settings": {
+    "manualCompletion": true
+  }
+}

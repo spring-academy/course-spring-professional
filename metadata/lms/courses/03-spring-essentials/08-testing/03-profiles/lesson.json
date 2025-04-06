@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-testing-profiles",
+  "slug": "spring-essentials-testing-profiles",
+  "title": "Configure Tests using Spring Profiles and working with Databases",
+  "status": "live",
+  "type": "video",
+  "duration": 322,
+  "settings": {
+    "vimeo": 764736385,
+    "brightcove": 6362210467112,
+    "manualCompletion": true
+  }
+}

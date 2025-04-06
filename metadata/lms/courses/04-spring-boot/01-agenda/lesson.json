@@ -1,0 +1,14 @@
+{
+  "id": "spring-boot-agenda",
+  "slug": "agenda",
+  "title": "Agenda",
+  "status": "live",
+  "type": "video",
+  "duration": 162,
+  "entitlements": [],
+  "settings": {
+    "vimeo": 764813763,
+    "brightcove": 6362186802112,
+    "manualCompletion": true
+  }
+}

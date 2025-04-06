@@ -1,0 +1,19 @@
+{
+  "id": "spring-essentials-overview-container",
+  "slug": "container",
+  "title": "The Dependency Injection (DI) Container",
+  "status": "live",
+  "type": "video",
+  "duration": 277,
+  "settings": {
+    "vimeo": 764708901,
+    "brightcove": 6362205855112,
+    "manualCompletion": true,
+    "links": [
+      {
+        "text": "Dependency Injection Container",
+        "url": "https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#beans-introduction"
+      }
+    ]
+  }
+}

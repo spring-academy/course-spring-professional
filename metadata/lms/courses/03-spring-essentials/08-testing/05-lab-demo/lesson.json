@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-testing-lab-demo",
+  "slug": "spring-essentials-testing-lab-demo",
+  "title": "Demo - Testing Spring Applications Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 818,
+  "settings": {
+    "vimeo": 764736416,
+    "brightcove": 6362216119112,
+    "manualCompletion": true
+  }
+}

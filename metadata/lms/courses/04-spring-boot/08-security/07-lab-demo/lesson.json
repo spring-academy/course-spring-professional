@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-security-lab-demo",
+  "slug": "spring-boot-security-lab-demo",
+  "title": "Demo - Securing REST Application with Spring Security Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 1590,
+  "settings": {
+    "vimeo": 778344500,
+    "brightcove": 6362188090112,
+    "manualCompletion": true
+  }
+}

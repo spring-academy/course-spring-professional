@@ -1,0 +1,11 @@
+{
+  "id": "spring-essentials-testing-lab",
+  "slug": "spring-essentials-testing-lab",
+  "title": "Testing Spring Applications Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 1800,
+  "settings": {
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-jdbc-jdbctemplate-basic",
+  "slug": "spring-essentials-jdbc-jdbctemplate-basic",
+  "title": "JdbcTemplate Basic Usage",
+  "status": "live",
+  "type": "video",
+  "duration": 297,
+  "settings": {
+    "vimeo": 764736575,
+    "brightcove": 6362189734112,
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-web-app-intro",
+  "slug": "spring-boot-web-app-intro",
+  "title": "Spring Web Introduction",
+  "status": "live",
+  "type": "video",
+  "duration": 447,
+  "settings": {
+    "vimeo": 778333394,
+    "brightcove": 6362187314112,
+    "manualCompletion": true
+  }
+}

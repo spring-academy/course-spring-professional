@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-spring-data-jpa-jpa",
+  "slug": "spring-boot-spring-data-jpa-jpa",
+  "title": "Spring Boot - Spring Data JPA",
+  "status": "live",
+  "type": "video",
+  "duration": 423,
+  "settings": {
+    "vimeo": 778325787,
+    "brightcove": 6362186009112,
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-introduction-rewards-reference-domain-demo",
+  "slug": "spring-introduction-rewards-reference-domain-demo",
+  "title": "Demo - Rewards Reference Domain",
+  "status": "live",
+  "type": "video",
+  "duration": 318,
+  "settings": {
+    "vimeo": 764708696,
+    "brightcove": 6362191503112,
+    "manualCompletion": true
+  }
+}

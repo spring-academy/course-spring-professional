@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-actuator-lab-demo",
+  "slug": "spring-boot-actuator-lab-demo",
+  "title": "Demo - Actuators, Metrics and Health Indicators Lab",
+  "status": "live",
+  "type": "video",
+  "duration": 2459,
+  "settings": {
+    "vimeo": 778351595,
+    "brightcove": 6362188279112,
+    "manualCompletion": true
+  }
+}

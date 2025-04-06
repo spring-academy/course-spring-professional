@@ -1,0 +1,13 @@
+{
+  "id": "spring-boot-testing-mockmvc",
+  "slug": "spring-boot-testing-mockmvc",
+  "title": "Perform MockMVC testing",
+  "status": "live",
+  "type": "video",
+  "duration": 467,
+  "settings": {
+    "vimeo": 778341463,
+    "brightcove": 6362188277112,
+    "manualCompletion": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spring-essentials-testing-junit",
+  "slug": "spring-essentials-testing-junit",
+  "title": "JUnit 5",
+  "status": "live",
+  "type": "video",
+  "duration": 211,
+  "settings": {
+    "vimeo": 764736298,
+    "brightcove": 6362204451112,
+    "manualCompletion": true
+  }
+}

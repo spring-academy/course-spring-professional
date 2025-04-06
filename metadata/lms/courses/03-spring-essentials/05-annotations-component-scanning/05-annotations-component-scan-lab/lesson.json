@@ -1,0 +1,11 @@
+{
+  "id": "spring-essentials-component-scanning-lab",
+  "slug": "spring-essentials-component-scanning-lab",
+  "title": "Annotations and Component Scanning Lab",
+  "status": "live",
+  "type": "article",
+  "duration": 2700,
+  "settings": {
+    "manualCompletion": true
+  }
+}

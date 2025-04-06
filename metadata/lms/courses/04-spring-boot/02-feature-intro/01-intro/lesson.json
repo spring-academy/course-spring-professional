@@ -1,0 +1,14 @@
+{
+  "id": "spring-boot-feature-intro-intro",
+  "slug": "spring-boot-feature-intro-intro",
+  "title": "Spring Boot Feature Introduction",
+  "status": "live",
+  "type": "video",
+  "duration": 450,
+  "entitlements": ["auth"],
+  "settings": {
+    "vimeo": 778305573,
+    "brightcove": 6362186703112,
+    "manualCompletion": true
+  }
+}
