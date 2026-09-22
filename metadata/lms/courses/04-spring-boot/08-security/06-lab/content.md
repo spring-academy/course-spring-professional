@@ -114,8 +114,8 @@ pair, the application will
 respond with `401 Unauthorized`.
 
 - Open a terminal window
-- Run "curl -i localhost:8080/accounts" and observe 401 Unauthorized response
-- Run "curl -i -u user:\<Spring-Boot-Generated-Password\> localhost:8080/accounts"
+- Run `curl -i localhost:8080/accounts" and observe 401 Unauthorized response`
+- Run `curl -i -u user:<Spring-Boot-Generated-Password> localhost:8080/accounts`
   and observe a successful response
 
 ### Enable Web Security
